@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @11AyushiSingh
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently working as a fullstack developer(javascript)
 
 
 <!---
